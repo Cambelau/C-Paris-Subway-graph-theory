@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="800">
+
+<polygon points=" 0,0 1000,0 1000,800 0,800 " style="fill:#EFF2FB;stroke:black;stroke-width:10"/>
+<line x1="0" y1="0" x2="1000" y2="0" stroke="lightgrey" />
+<text x="5" y="-5" fill="lightgrey" >0</text>
+<line x1="0" y1="100" x2="1000" y2="100" stroke="lightgrey" />
+<text x="5" y="95" fill="lightgrey" >100</text>
+<line x1="0" y1="200" x2="1000" y2="200" stroke="lightgrey" />
+<text x="5" y="195" fill="lightgrey" >200</text>
+<line x1="0" y1="300" x2="1000" y2="300" stroke="lightgrey" />
+<text x="5" y="295" fill="lightgrey" >300</text>
+<line x1="0" y1="400" x2="1000" y2="400" stroke="lightgrey" />
+<text x="5" y="395" fill="lightgrey" >400</text>
+<line x1="0" y1="500" x2="1000" y2="500" stroke="lightgrey" />
+<text x="5" y="495" fill="lightgrey" >500</text>
+<line x1="0" y1="600" x2="1000" y2="600" stroke="lightgrey" />
+<text x="5" y="595" fill="lightgrey" >600</text>
+<line x1="0" y1="700" x2="1000" y2="700" stroke="lightgrey" />
+<text x="5" y="695" fill="lightgrey" >700</text>
+<line x1="0" y1="800" x2="1000" y2="800" stroke="lightgrey" />
+<text x="5" y="795" fill="lightgrey" >800</text>
+<line x1="0" y1="0" x2="0" y2="800" stroke="lightgrey" />
+<text x="5" y="15" fill="lightgrey" >0</text>
+<line x1="100" y1="0" x2="100" y2="800" stroke="lightgrey" />
+<text x="105" y="15" fill="lightgrey" >100</text>
+<line x1="200" y1="0" x2="200" y2="800" stroke="lightgrey" />
+<text x="205" y="15" fill="lightgrey" >200</text>
+<line x1="300" y1="0" x2="300" y2="800" stroke="lightgrey" />
+<text x="305" y="15" fill="lightgrey" >300</text>
+<line x1="400" y1="0" x2="400" y2="800" stroke="lightgrey" />
+<text x="405" y="15" fill="lightgrey" >400</text>
+<line x1="500" y1="0" x2="500" y2="800" stroke="lightgrey" />
+<text x="505" y="15" fill="lightgrey" >500</text>
+<line x1="600" y1="0" x2="600" y2="800" stroke="lightgrey" />
+<text x="605" y="15" fill="lightgrey" >600</text>
+<line x1="700" y1="0" x2="700" y2="800" stroke="lightgrey" />
+<text x="705" y="15" fill="lightgrey" >700</text>
+<line x1="800" y1="0" x2="800" y2="800" stroke="lightgrey" />
+<text x="805" y="15" fill="lightgrey" >800</text>
+<line x1="900" y1="0" x2="900" y2="800" stroke="lightgrey" />
+<text x="905" y="15" fill="lightgrey" >900</text>
+<line x1="1000" y1="0" x2="1000" y2="800" stroke="lightgrey" />
+<text x="1005" y="15" fill="lightgrey" >1000</text>
+<text x="670" y="498" fill="black" >Valeurs des indices :</text>
+<text x="500" y="530" fill="black" >Nom / Degre / Degre normalise / I. vect propre / I. Prox / I. centralite inter</text>
+<line x1="500" y1="500" x2="1000" y2="500" stroke="black" />
+<line x1="500" y1="500" x2="500" y2="860" stroke="black" />
+<line x1="500" y1="860" x2="1000" y2="860" stroke="black" />
+<text x="295" y="80" fill="black" >A</text>
+<circle cx="300" cy="100" r="7" fill="black" />
+<text x="510" y="550" fill="black" >A</text>
+<text x="560" y="550" fill="black" >0</text>
+<text x="600" y="550" fill="black" >0</text>
+<text x="700" y="550" fill="black" >0</text>
+<text x="800" y="550" fill="black" >0</text>
+<text x="900" y="550" fill="black" >0</text>
+<text x="195" y="180" fill="black" >B</text>
+<circle cx="200" cy="200" r="7" fill="green" />
+<text x="510" y="580" fill="black" >B</text>
+<text x="560" y="580" fill="black" >2</text>
+<text x="600" y="580" fill="black" >0.25</text>
+<text x="700" y="580" fill="black" >0.122449</text>
+<text x="800" y="580" fill="black" >0.571429</text>
+<text x="900" y="580" fill="black" >0.0619048</text>
+<text x="395" y="180" fill="black" >C</text>
+<circle cx="400" cy="200" r="7" fill="green" />
+<text x="510" y="610" fill="black" >C</text>
+<text x="560" y="610" fill="black" >2</text>
+<text x="600" y="610" fill="black" >0.25</text>
+<text x="700" y="610" fill="black" >0.122449</text>
+<text x="800" y="610" fill="black" >0.571429</text>
+<text x="900" y="610" fill="black" >0.0619048</text>
+<text x="295" y="280" fill="black" >D</text>
+<circle cx="300" cy="300" r="7" fill="red" />
+<text x="510" y="640" fill="black" >D</text>
+<text x="560" y="640" fill="black" >4</text>
+<text x="600" y="640" fill="black" >0.5</text>
+<text x="700" y="640" fill="black" >0.204082</text>
+<text x="800" y="640" fill="black" >0.8</text>
+<text x="900" y="640" fill="black" >0.355952</text>
+<text x="195" y="380" fill="black" >E</text>
+<circle cx="200" cy="400" r="7" fill="blue" />
+<text x="510" y="670" fill="black" >E</text>
+<text x="560" y="670" fill="black" >3</text>
+<text x="600" y="670" fill="black" >0.375</text>
+<text x="700" y="670" fill="black" >0.163265</text>
+<text x="800" y="670" fill="black" >0.666667</text>
+<text x="900" y="670" fill="black" >0.170238</text>
+<text x="295" y="380" fill="black" >F</text>
+<circle cx="300" cy="400" r="7" fill="green" />
+<text x="510" y="700" fill="black" >F</text>
+<text x="560" y="700" fill="black" >2</text>
+<text x="600" y="700" fill="black" >0.25</text>
+<text x="700" y="700" fill="black" >0.122449</text>
+<text x="800" y="700" fill="black" >0.571429</text>
+<text x="900" y="700" fill="black" >0.0488095</text>
+<text x="395" y="380" fill="black" >G</text>
+<circle cx="400" cy="400" r="7" fill="blue" />
+<text x="510" y="730" fill="black" >G</text>
+<text x="560" y="730" fill="black" >3</text>
+<text x="600" y="730" fill="black" >0.375</text>
+<text x="700" y="730" fill="black" >0.163265</text>
+<text x="800" y="730" fill="black" >0.666667</text>
+<text x="900" y="730" fill="black" >0.170238</text>
+<text x="95" y="480" fill="black" >H</text>
+<circle cx="100" cy="500" r="7" fill="green" />
+<text x="510" y="760" fill="black" >H</text>
+<text x="560" y="760" fill="black" >2</text>
+<text x="600" y="760" fill="black" >0.25</text>
+<text x="700" y="760" fill="black" >0.102041</text>
+<text x="800" y="760" fill="black" >0.5</text>
+<text x="900" y="760" fill="black" >0.0297619</text>
+<text x="495" y="480" fill="black" >I</text>
+<circle cx="500" cy="500" r="7" fill="green" />
+<text x="510" y="790" fill="black" >I</text>
+<text x="560" y="790" fill="black" >2</text>
+<text x="600" y="790" fill="black" >0.25</text>
+<text x="700" y="790" fill="black" >0.102041</text>
+<text x="800" y="790" fill="black" >0.5</text>
+<text x="900" y="790" fill="black" >0.0297619</text>
+<line x1="200" y1="200" x2="300" y2="300" stroke="black" />
+<text x="250" y="250" fill="black" >0:1</text>
+<line x1="400" y1="200" x2="300" y2="300" stroke="black" />
+<text x="350" y="250" fill="black" >1:1</text>
+<line x1="300" y1="300" x2="200" y2="400" stroke="black" />
+<text x="250" y="350" fill="black" >2:1</text>
+<line x1="300" y1="300" x2="400" y2="400" stroke="black" />
+<text x="350" y="350" fill="black" >3:1</text>
+<line x1="200" y1="200" x2="100" y2="500" stroke="black" />
+<text x="150" y="350" fill="black" >4:1</text>
+<line x1="400" y1="200" x2="500" y2="500" stroke="black" />
+<text x="450" y="350" fill="black" >5:1</text>
+<line x1="200" y1="400" x2="300" y2="400" stroke="black" />
+<text x="250" y="400" fill="black" >6:1</text>
+<line x1="300" y1="400" x2="400" y2="400" stroke="black" />
+<text x="350" y="400" fill="black" >7:1</text>
+<line x1="400" y1="400" x2="500" y2="500" stroke="black" />
+<text x="450" y="450" fill="black" >8:1</text>
+<line x1="200" y1="400" x2="100" y2="500" stroke="black" />
+<text x="150" y="450" fill="black" >9:1</text>
+
+
+</svg>
